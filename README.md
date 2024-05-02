@@ -6,6 +6,4 @@
 
 3 - Get the control back with the answer
 
-```
 ![](Assets/Images/image.png)
-```
